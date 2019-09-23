@@ -1,0 +1,53 @@
+.My-name {
+    color: #fff;
+    background-color: #45AAA6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    height: 30x;
+    margin: 0;
+    position: absolute;
+    left: 14%;
+    float: left;
+  }
+
+  .nav justify-content-end {
+    border-bottom: solid 2px #666;
+
+  }
+
+  .nav-item {
+      line-height: 30px;
+      font-size: 12px;
+      text-align: right;
+  }
+
+  .container-fluid {
+    padding: 20px;
+    height: auto;
+    background-image: url("morocco.png");
+    background-color: azure;
+    
+  }
+
+  .container {
+    width: 960px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    position: relative;
+  }
+
+  .h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #45AAA6;
+    margin: 20px;
+  }
+
+  .image {
+    float: left;
+    margin: 20px;
+    }
+
+ 
