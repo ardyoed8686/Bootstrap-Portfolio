@@ -71,4 +71,25 @@ footer {
     margin-top: -50px;
     }
 
- 
+.row {
+    height: 10%;
+}   
+
+.box {
+        margin: 2% 7%;
+        height: 130px;
+        width: 130px;
+        float: left;
+        position: relative;
+      }
+
+.text {
+        position: absolute;
+        bottom: 5px;
+        text-align: center;
+        background-color: #45AAA6;
+        color: #fff;
+        padding: 5%;
+        right: 0;
+        left: 0;
+      }
