@@ -40,9 +40,6 @@
 
   .bio-image {
     float: left;
-    /* height: 200px; */
-    /* width: 200px; */
-    /* margin: 0px; */
     }
 
 .bio {
@@ -87,4 +84,16 @@ footer {
         padding: 5%;
         right: 0;
         left: 0;
+      }
+
+.button {
+        background-color: #45AAA6;
+        border: none;
+        color: white;
+        padding: 15px 30px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+        margin: 15px 2px;
+        cursor: pointer;
       }
